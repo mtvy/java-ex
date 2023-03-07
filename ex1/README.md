@@ -7,8 +7,8 @@ grant all on db.* to 'user'@'%';
 
 
 
-Request example:
+## Request example:
 
 curl http://localhost:8080/demo/add_user -d name=Matvei -d email=m.d.prudnik@gmail.com
 
-Return value -> saved
+`Return value -> saved`
